@@ -1,0 +1,23 @@
+{
+  "name": "vite-vue3",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@unocss/transformer-directives": "^0.51.12",
+    "@unocss/transformer-variant-group": "^0.51.12",
+    "@unocss/webpack": "^0.51.12",
+    "next": "^13.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "unocss": "^0.51.12"
+  },
+  "devDependencies": {
+    "@types/react": "18.2.6",
+    "@vitejs/plugin-vue": "^4.2.1",
+    "typescript": "^5.0.4"
+  }
+}
